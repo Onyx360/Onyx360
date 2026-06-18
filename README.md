@@ -2,7 +2,7 @@
 
 I'm an entrepreneur, creator, and aspiring software developer driven by a passion for building meaningful products.
 
-While software engineering wasn't where my career began, it's become the skill I've chosen to develop because it gives me the ability to bring my own ideas to life. I'm committed to learning the craft, writing better code every day, and building projects that solve real problems.
+While software engineering wasn't where my career began, it's become a skill I've chosen to develop because it gives me the ability to bring my own ideas to life. I'm committed to learning the craft, writing better code every day, and building projects that solve real problems.
 
 ---
 
