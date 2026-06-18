@@ -1,4 +1,4 @@
-# Hi, I'm Jonathon 👋
+# Hi, I'm Jonathon 
 
 I'm an entrepreneur, creator, and aspiring software developer driven by a passion for building meaningful products.
 
@@ -6,7 +6,7 @@ While software engineering wasn't where my career began, it's become the skill I
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 * Building software with long-term impact
 * Becoming a stronger full-stack developer
@@ -15,7 +15,7 @@ While software engineering wasn't where my career began, it's become the skill I
 
 ---
 
-## 🧠 What I'm Building
+## What I'm Building
 
 ### FitBase *(Private)*
 
@@ -27,7 +27,7 @@ An original multiplayer online experience inspired by the social communities tha
 
 ---
 
-## 🛠️ Technologies I'm Working With
+## Technologies I'm Working With
 
 * Python
 * Flutter
@@ -40,7 +40,7 @@ An original multiplayer online experience inspired by the social communities tha
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Software Architecture
 * Backend Engineering
@@ -50,7 +50,7 @@ An original multiplayer online experience inspired by the social communities tha
 
 ---
 
-## 💼 Beyond Code
+## Beyond Code
 
 My background includes fitness, digital marketing, videography, post-production editing, sound design and entrepreneurship. Those experiences shape how I approach software—not just as code, but as a way to solve problems, create value, and bring ambitious ideas to life.
 
@@ -58,7 +58,7 @@ I believe great products come from understanding people just as much as understa
 
 ---
 
-## 🎯 Looking Ahead
+## Looking Ahead
 
 I'm documenting my journey as an entrepreneur adding software builder to one of the many skills I have mastered, one project at a time. Every repository represents another lesson learned, another challenge solved, and another step toward creating software that has a meaningful impact.
 
